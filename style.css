@@ -1,0 +1,21 @@
+body {
+    background: url(image/background.jpg);
+}
+.heading {
+  font-family: sans-serif , Arial , Verdana ;
+  text-align: center;
+  line-height: 0.5;
+}
+p {
+  font: 20px serif bold;
+  color: #000000;
+  margin: 20px 25px;
+}
+.point{
+  margin: 20px 25px;
+  line-height: 1.5;
+}
+footer {
+  text-align:center;
+  font-size: 20px;
+}
